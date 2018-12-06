@@ -2,6 +2,6 @@
 React-Native-Redux-CounterValue
 
 
-# npm install
-#npm install redux
-#npm install react-redux
+npm install
+npm install redux
+npm install react-redux
